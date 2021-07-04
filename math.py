@@ -9,7 +9,7 @@ def multiply(x,y):
     return x*y
 #div implementaion
 def divide(x,y):
-    pass
+    return x/y
 
 $ this isgreat 
 indeed its ia pleasure
