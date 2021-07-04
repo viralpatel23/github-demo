@@ -1,6 +1,6 @@
 #add implementaion			
 def add(x,y):
-    pass
+   return x+y
 	# sub implementation
 def subtract(x,y):
     pass
@@ -14,3 +14,5 @@ def divide(x,y):
 $ this isgreat 
 indeed its ia pleasure
 this is coll
+
+
